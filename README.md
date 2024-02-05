@@ -12,4 +12,5 @@
 <ul align = "left">
 	<li> Stack </li>
 	<li> Queue </li>
+	<li> Linked List</li>
 </ul>
